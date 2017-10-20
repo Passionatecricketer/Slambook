@@ -1,0 +1,12 @@
+Name
+Date of birth
+Hobby
+Favourite song
+Gender
+Ideal
+Favourite food
+Best friend's name
+Aim
+Motto
+Favourite colour
+Ambition
